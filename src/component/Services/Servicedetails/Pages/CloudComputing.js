@@ -111,7 +111,7 @@ const CloudComputing = () => {
               </p>
               <br />
               <p className="mx-auto w-[80%]">
-                Phone: <span className="text-[#EC9422]">+91 7045 724 027</span> Email: <span className="text-[#EC9422]">info@k2kitsupport.com</span>
+                Phone: <span className="text-[#EC9422]">+91 7045 724 027</span> Email: <span className="text-[#EC9422]">marketingmanager@k2kitsupport.com</span>
               </p>
             </div>
           </div>
@@ -130,12 +130,10 @@ const CloudComputing = () => {
           </p>
           <img src={img} alt="" className="w-full rounded-lg" />
           <h3 className="py-5 text-[35px] font-bold">K2K Agency Values</h3>
-          <p>At K2K, our culture comes to life through three core values:</p>
+          <p>At K2K, our culture comes to life through following values:</p>
           <ul className="list-disc list-inside">
-            <li className="py-2">Cloud Computing Tailored to Scale Your Business…</li>
-            <li className="py-2">Our Scalable Cloud Solutions for a Future-Ready Business…</li>
+            <li className="py-2">Cloud Computing Tailored to Scale Your Business and make it Future-Ready…</li>
             <li className="py-2">Empowering Growth with Our Flexible, Secure Cloud Computing…</li>
-            <li className="py-2">With Us, Harness the Cloud to Drive Agility, Security, and Success…</li>
           </ul>
           
           <div className="flex gap-10 py-10">
@@ -143,9 +141,7 @@ const CloudComputing = () => {
             <img src={img3} alt="" className="w-1/2 rounded-lg" />
           </div>
 
-          <p className="py-2">
-          From Cloud Migration Services to Hybrid Cloud Solutions, SaaS, PaaS, IaaS Solutions, Cloud Security, and seamless integrations with leading platforms like AWS, Azure, and Google Cloud, we offer end-to-end cloud solutions to meet your unique business needs.
-          </p>
+          
           <p className="py-2">
           Our cloud security solutions include advanced encryption, multi-factor authentication, continuous monitoring, and vulnerability assessments to safeguard sensitive information.
           

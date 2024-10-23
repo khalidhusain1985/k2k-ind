@@ -9,7 +9,7 @@ const Preloader = ({ setLoading }) => {
     // Set a 2-second timer for the preloader
     const timer = setTimeout(() => {
       setLoading(false);
-    }, 3000);
+    }, 1000);
 
     // Set the playback speed of the video
     if (videoRef.current) {

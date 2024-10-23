@@ -22,6 +22,7 @@ function Content() {
   }, []);
 
   return (
+    
     <div
       className="px-3 py-5 bg-cover bg-center lg:h-full bg-opacity-45 rounded-lg"
       data-aos="fade-up"

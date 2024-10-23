@@ -21,7 +21,7 @@ const New = () => {
           </div>
           <div className='py-5 text-black'>
             <h2 className='py-5 text-[30px] font-bold text-[#002366]'>Challenges of business</h2>
-            <p>At Orritech our culture comes to life through three core values:</p>
+            <p>At Orritech our culture comes to life through following values:</p>
             <div className='py-5'>
               <li>We care about each other and the world around us</li>
               <li>We care about each other and the world around us</li>

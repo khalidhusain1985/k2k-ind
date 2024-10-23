@@ -68,7 +68,7 @@ const Testimonial = () => {
                 <div className="bg-white p-5 rounded-lg shadow-lg">
                   <span className="block mt-5 text-right text-black font-bold">- Prem Kumar</span>
                   <p className="text-black font-semibold text-lg">
-                    "Our expertise team excels in software development services, creating custom, scalable solutions tailored to needs. "
+                    "We’ve received numerous compliments for our stunning creatively designed responsive website looks. "
                   </p>
                 </div>
               </SwiperSlide>

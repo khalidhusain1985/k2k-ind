@@ -50,7 +50,7 @@ const Form = () => {
             </div>
             <div className='px-6 md:px-12 py-2 font-bold flex'>
               <img className='h-[5%]' src={mail} alt='' />
-              <p className='text-[#EC9422] px-2 md:px-5'>info@k2kitsupport.com</p>
+              <p className='text-[#EC9422] px-2 md:px-5'>marketingmanager@k2kitsupport.com</p>
             </div>
             <div className='px-6 md:px-12 py-2 flex font-bold'>
               <img className='h-[5%]' src={location} alt='' />

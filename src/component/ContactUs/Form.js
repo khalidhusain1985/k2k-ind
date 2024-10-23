@@ -71,7 +71,7 @@ const Form = () => {
             </div>
             <div className='px-6 sm:px-12 py-2 font-bold flex items-center'>
               <img className='h-[5%]' src={mail} alt='' />
-              <p className='text-[#EC9422] px-5 text-sm sm:text-base'>info@k2kitsupport.com</p>
+              <p className='text-[#EC9422] px-5 text-sm sm:text-base'>marketingmanager@k2kitsupport.com</p>
             </div>
             <div className='px-6 sm:px-12 py-2 flex font-bold items-center'>
               <img className='h-[5%]' src={loaction} alt='' />
@@ -156,23 +156,22 @@ const Form = () => {
         </div>
         <div className='py-5'>
           <h2 className='font-bold text-black text-sm sm:text-base'>Select Subject?</h2>
-          <div className='py-5'>
-            <label className='mx-2 sm:mx-4 text-sm sm:text-base'>
-              <input type="radio" name="subject" value="general_inquiry" onChange={handleChange} />
-              General Inquiry
+          <div className='py-5 '>
+            <label className='mx-2 sm:mx-4 text-sm sm:text-base flex '>
+              <input type="radio" name="subject" value="general_inquiry" onChange={handleChange} className='' />
+             <p className='mx-2'>General Inquiry</p> 
             </label>
-            <label className='mx-2 sm:mx-4 text-sm sm:text-base'>
-              <input type="radio" name="subject" value="support" onChange={handleChange} />
-              Support
+            <label className='mx-2 sm:mx-4 text-sm sm:text-base flex '>
+            <input type="radio" name="subject" value="support" onChange={handleChange} />
+             <p className='mx-2'>Support</p> 
             </label>
-            <br />
-            <label className='mx-2 sm:mx-4 text-sm sm:text-base'>
-              <input type="radio" name="subject" value="feedback" onChange={handleChange} />
-              Feedback
+            <label className='mx-2 sm:mx-4 text-sm sm:text-base flex '>
+            <input type="radio" name="subject" value="feedback" onChange={handleChange} />
+             <p className='mx-2'> Feedback</p> 
             </label>
-            <label className='mx-2 sm:mx-4 text-sm sm:text-base'>
-              <input type="radio" name="subject" value="other" onChange={handleChange} />
-              Other
+            <label className='mx-2 sm:mx-4 text-sm sm:text-base flex '>
+            <input type="radio" name="subject" value="other" onChange={handleChange} />
+             <p className='mx-2'>Other</p> 
             </label>
           </div>
         </div>

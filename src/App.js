@@ -37,6 +37,7 @@ const App = () => {
             <Navbar />
             <main className="flex-grow">
               {/* Ensure the main content area grows and pushes the footer to the bottom */}
+              
               <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/about" element={<About />} />

@@ -5,8 +5,18 @@ import bg from "../../assets/hero2bg.png";
 import shape from "../../assets/shape.png";
 import hero2 from "../../assets/aboutk2k.png";
 import arrow from "../../assets/arrow.png";
+import { Helmet } from "react-helmet";
 
 function About1() {
+  <Helmet>
+        <title>About Us</title>
+        <meta
+          name="description"
+          content=" Standing at the forefront of digital innovation, we at K2K IT
+                Support & Solutions Pvt. Ltd brings the latest IT solutions to
+                businesses"
+        />
+  </Helmet>
   useEffect(() => {
     AOS.init({
       duration: 1000, // animation duration in ms
@@ -16,6 +26,7 @@ function About1() {
   }, []);
 
   return (
+    
     <div
       className="py-5 bg-cover bg-center lg:h-screen bg-opacity-45 rounded-lg"
       style={{

@@ -23,7 +23,7 @@ const Map = () => {
           <p>
             Phone: <span className="text-[#EC9422]">+91 7045 724 027</span>{" "}
             <br /> Email:{" "}
-            <span className="text-[#EC9422]">info@k2kitsupport.com</span>
+            <span className="text-[#EC9422] text-[12px]">marketingmanager@k2kitsupport.com</span>
           </p>
         </div>
       </div>

@@ -111,7 +111,7 @@ const CyberSecurity = () => {
               </p>
               <br />
               <p className="mx-auto w-[80%]">
-                Phone: <span className="text-[#EC9422]">+91 7045 724 027</span> Email: <span className="text-[#EC9422]">info@k2kitsupport.com</span>
+                Phone: <span className="text-[#EC9422]">+91 7045 724 027</span> Email: <span className="text-[#EC9422]">marketingmanager@k2kitsupport.com</span>
               </p>
             </div>
           </div>
@@ -131,12 +131,11 @@ const CyberSecurity = () => {
           </p>
           <img src={img} alt="" className="w-full rounded-lg" />
           <h3 className="py-5 text-[35px] font-bold">K2K Agency Values</h3>
-          <p>At K2K, our culture comes to life through three core values:</p>
+          <p>At K2K, our culture comes to life through following values:</p>
           <ul className="list-disc list-inside">
             <li className="py-2">Guarding Your Business with Cutting-Edge Cyber Security—Stay Secure, Stay Ahead…</li>
             <li className="py-2">Our Cybersecurity Mastery—Ensuring Trust, Defeating Threats…</li>
             <li className="py-2">Advanced Cyber Defense for Every Threat to Keep You a Step Ahead…</li>
-            <li className="py-2">With Our Pioneering Cyber Security Measures, Secure Your Business Against Tomorrow’s Threats…</li>
           </ul>
           
           <div className="flex gap-10 py-10">
@@ -159,14 +158,14 @@ const CyberSecurity = () => {
                 <img className="h-[40%] w-auto" src={circle} alt="" />
                 <div className="mx-5">
                   <h2 className="font-bold">Certified Experts</h2>
-                  <p>K2K's watchful eye on your cyber security permits </p>
+                  <p>K2K's watchful eye on your cyber security permits to concentrate on your core business activities</p>
                 </div>
               </div>
               <div className="py-10 flex">
                 <img className="h-[40%] w-auto" src={circle} alt="" />
                 <div className="mx-5">
                   <h2 className="font-bold">Quick Response</h2>
-                  <p> To concentrate on your core business activities without any wavering in your mind.</p>
+                  <p>  Without any wavering in your mind.</p>
                 </div>
               </div>
             </div>

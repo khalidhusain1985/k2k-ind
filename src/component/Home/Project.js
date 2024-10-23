@@ -10,10 +10,10 @@ import logo1 from "../../assets/school.png";
 const Project = () => {
   const projects = [
     { title: 'K2K School ERP', description: 'Our expert team excels in software development services, creating custom, scalable solutions tailored to your needs.', img: logo1 },
-    { title: 'E-commerce', description: 'Our expertise team excels in software development services, creating custom, scalable solutions tailored to your needs.', img: logo1 },
+    { title: 'E-commerce', description: 'Our expertise team excels in software development services, creating custom, scalable solutions personalized to your needs.', img: logo1 },
     { title: 'Personalized Website', description: 'Our expertise team excels in software development services, creating custom, scalable solutions tailored to your needs.', img: logo1 },
-    { title: 'K2K School ERP', description: 'Our expert team excels in software development services, creating custom, scalable solutions tailored to your needs.', img: logo1 },
-    { title: 'K2K School ERP', description: 'Our expert team excels in software development services, creating custom, scalable solutions tailored to your needs.', img: logo1 },
+    { title: 'Chat-Application', description: 'Our expert team excels in software development services, creating custom, scalable solutions customized to your needs.', img: logo1 },
+    { title: 'Social Media App ', description: 'Our expert team excels in software development services, creating custom, scalable solutions tailored to your needs.', img: logo1 },
   ];
 
   return (
@@ -23,7 +23,7 @@ const Project = () => {
       <div className='mx-7 py-10 font-bold flex'>
         <div className='w-[70%]'>
           <h3 className='text-white'>Our Projects</h3>
-          <h2 className='text-white font-bold text-[40px] sm:text-[55px] py-5'>Our project is now available for sale</h2>
+          <h2 className='text-white font-bold text-[23px] sm:text-[35px] py-5'>Our project is now available for sale</h2>
           <p className='text-white py-4'>
             Designed with cutting-edge technology and user-friendly features, it’s the perfect solution to meet your needs. Act now and be among the first to benefit!
           </p>

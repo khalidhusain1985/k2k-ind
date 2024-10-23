@@ -47,7 +47,7 @@ function Footer() {
             <div className="flex flex-col md:flex-row gap-4 items-center bg-[#6265B1] p-4 rounded-2xl">
               <div className="text-white text-center">
                 <h3 className="text-[20px]">Send us mail</h3>
-                <p>info@k2kitsupport.com</p>
+                <p className="text-[15px]">marketingmanager@k2kitsupport.com</p>
               </div>
               <img src={line} alt="divider" className="hidden md:block" />
               <div className="text-white text-center">

@@ -11,7 +11,7 @@ import circle from "../../../../assets/circle1.png";
 
 const Applicationdev = () => {
   return (
-    <div className="mx-5 md:mx-10 py-10 gap-5 md:py-20 flex flex-col-reverse md:flex-row">
+    <div className="mx-5 md:mx-10 pt-10 gap-5 md:py-20 flex flex-col-reverse md:flex-row">
       <div className="flex-1 md:w-[60%]">
         <div className="bg-[#002366] lg:w-[60%] mx-5 md:mx-0 text-[#002366] rounded-2xl">
           {[
@@ -111,7 +111,7 @@ const Applicationdev = () => {
               </p>
               <br />
               <p className="mx-auto w-[80%]">
-                Phone: <span className="text-[#EC9422]">+91 7045 724 027</span> Email: <span className="text-[#EC9422]">info@k2kitsupport.com</span>
+                Phone: <span className="text-[#EC9422]">+91 7045 724 027</span> Email: <span className="text-[#EC9422]">marketingmanager@k2kitsupport.com</span>
               </p>
             </div>
           </div>
@@ -124,11 +124,11 @@ const Applicationdev = () => {
           <p className="py-5">
           Our all-inclusive approach encompasses every stage of the app lifecycle, from initial concept to post-launch support and optimization. K2K offers tailored solutions that align with specific business goals and target audiences. 
           </p>
-          <span className="text-[#EC9422]">The seamless backend integration, API development, and post-launch support and maintenance are the USPs of the company.</span>
+          <span className="text-[#EC9422]">The company's USPs are seamless backend integration, API development, and post-launch support and maintenance.</span>
           
           <img src={img} alt="" className="w-full rounded-lg" />
           <h3 className="py-5 text-[35px] font-bold">K2K Agency Values</h3>
-          <p>At K2K, our culture comes to life through three core values:</p>
+          <p>At K2K, our culture comes to life through following values:</p>
           <ul className="list-disc list-inside">
             <li className="py-2">From iOS to Android, We Build Apps That Engage Everywhere…</li>
             <li className="py-2">Cutting-Edge iOS to Android Applications for Powering Your Business… </li>
@@ -150,7 +150,7 @@ const Applicationdev = () => {
 
           </p>
 
-          <div className="py-10 mx-5 md:mx-10 flex gap-20 flex-col md:flex-row">
+          <div className="pt-10 mx-5 md:mx-10 flex gap-20 flex-col md:flex-row">
             <div className="flex-1 py-20">
               <div className="flex">
                 <img className="h-[40%] w-auto" src={circle} alt="" />
@@ -171,9 +171,7 @@ const Applicationdev = () => {
               <img src={img4} alt='' className="w-full rounded-lg" />
             </div>
           </div>
-          <p>
-          The seamless backend integration, API development, and post-launch support and maintenance are the USPs of the company.
-          </p>
+          
         </div>
       </div>
     </div>

@@ -110,7 +110,7 @@ const SoftwareDevelopment = () => {
               </p>
               <br />
               <p className="mx-auto w-[80%]">
-                Phone: <span className="text-[#EC9422]">+91 7045 724 027</span> Email: <span className="text-[#EC9422]">info@k2kitsupport.com</span>
+                Phone: <span className="text-[#EC9422]">+91 7045 724 027</span> Email: <span className="text-[#EC9422]">marketingmanager@k2kitsupport.com</span>
               </p>
             </div>
           </div>
@@ -125,11 +125,10 @@ const SoftwareDevelopment = () => {
           </p>
           <span className="text-[#EC9422]">We transform your ideas, needs, thoughts, and suggestions into realism.</span>
           <p className="py-5">
-          Our expertise team excels in software development services, creating custom, scalable solutions tailored to your business needs.
           </p>
           <img src={img} alt="" className="w-full rounded-lg" />
           <h3 className="py-5 text-[35px] font-bold">K2K Agency Values</h3>
-          <p>At K2K, our culture comes to life through three core values:</p>
+          <p>At K2K, our culture comes to life through following values:</p>
           <ul className="list-disc list-inside">
             <li className="py-2">From Vision to Execution, We Code Your Success</li>
             <li className="py-2">Your Vision, Our Code—Limitless Possibilities…</li>
@@ -143,8 +142,7 @@ const SoftwareDevelopment = () => {
           </div>
 
           <p className="py-2">
-          We deliver industry-based innovative, high-performance software that drives efficiency, enhances user experience, and accelerates growth.
-
+          Our modernized unique software ideas surely fascinate you. Our hardworking technical experts deliver pleasing results at your doorsteps.
           </p>
           
 

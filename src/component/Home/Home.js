@@ -14,9 +14,17 @@ import Project from './Project';
 import Faq from './Faq';
 import Testemonial from './Testemonial';
 import News from './News';
+import { Helmet } from 'react-helmet';
 
 
 function Home() {
+  <Helmet>
+        <title>Versatile IT with Unique Ideas</title>
+        <meta
+          name="description"
+          content=" We are K2K IT Support & Solutions Pvt. Ltd, as a promising IT company we have been serving with years of experience and tremendous skill in the industry."
+        />
+  </Helmet>
   useEffect(() => {
     AOS.init({
       duration: 1000, // duration of animation in milliseconds
@@ -39,14 +47,14 @@ function Home() {
   }}
 >
   <div className="pt-5 px-5 flex flex-col justify-center items-start h-full">
-    <h2 className="text-[#FFFFFF] px-3 pt-16 sm:pt-20 md:pt-28 lg:pt-44 font-bold text-[22px] sm:text-[28px] md:text-[37px] lg:text-[50px]">
+    <h1 className="text-[#FFFFFF] px-3 pt-16 sm:pt-20 md:pt-28 lg:pt-44 font-bold text-[22px] sm:text-[28px] md:text-[37px] lg:text-[50px]">
       Versatile IT with 
       <span className="flex justify-start  pt-2 sm:pt-3 md:pt-5">
         Unique Ideas
       </span>
-    </h2>
+    </h1>
     <p className="text-white text-[14px] sm:text-[16px] md:text-[20px] px-3 sm:px-5 pt-3 sm:pt-5 md:pt-10 w-full sm:w-[80%] md:w-[60%] lg:w-[30%]">
-      We are K2K IT Support & Solutions Pvt. Ltd, as a promising IT company we are serving over a decade with tremendous skill in the industry.
+    We are K2K IT Support & Solutions Pvt. Ltd, as a promising IT company we have been serving with years of experience and tremendous skill in the industry.
     </p>
   </div>
 </div>

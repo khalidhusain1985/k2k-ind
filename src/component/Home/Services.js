@@ -15,7 +15,7 @@ const Services = () => {
     },
     {
       title: "App Development",
-      description: "Creating modern, scalable, and user-friendly mobile applications tailored to your needs.",
+      description: "Creating modern, scalable, and user-friendly mobile applications customized to your needs.",
     },
     {
       title: "Cloud Solutions",
@@ -27,7 +27,7 @@ const Services = () => {
     },
     {
       title: "Digital Marketing",
-      description: "Helping businesses grow through strategic online marketing solutions tailored to their needs.",
+      description: "Helping businesses grow through strategic online marketing solutions Personalized to their needs.",
     },
     {
       title: "3D-Animation",
@@ -52,10 +52,10 @@ const Services = () => {
     >
       <h2 className="text-center font-bold text-[19px] text-black" data-aos="fade-up">Explore our services</h2>
       <h3 className="py-3 text-center font-bold text-[28px] sm:text-[35px] text-black" data-aos="fade-up">
-        We are committed<br />to improving our skills in technology
+        We are committed<br /> <br/>to improving our skills in technology
       </h3>
 
-      <div className="py-10 grid sm:grid-cols-2 lg:grid-cols-3 gap-10">
+      <div className="py-10 grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
         {services.map((service, index) => (
           <div key={index} className="flex gap-4" data-aos="fade-up">
             <div className="w-16">

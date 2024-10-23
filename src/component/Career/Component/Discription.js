@@ -1,7 +1,15 @@
 import React from 'react';
 import about1 from "../../../assets/careerbg.png";
+import { Helmet } from 'react-helmet';
 
 const Discription = () => {
+  <Helmet>
+        <title>Versatile IT with Unique Ideas</title>
+        <meta
+          name="description"
+          content=" We are K2K IT Support & Solutions Pvt. Ltd, as a promising IT company we have been serving with years of experience and tremendous skill in the industry."
+        />
+  </Helmet>
   return (
     <div className='mx-5 py-20'>
       <div>

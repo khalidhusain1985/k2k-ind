@@ -100,7 +100,7 @@ const Detailsdis = () => {
               <p className="mx-auto w-[80%]">
                 Phone:<span className="text-[#EC9422]"> +91 7045 724 027 </span>
                 <br/>Email:{" "}
-                <span className="text-[#EC9422]">info@k2kitsupport.com</span>
+                <span className="text-[#EC9422]">marketingmanager@k2kitsupport.com</span>
               </p>
             </div>
           </div>
@@ -124,7 +124,7 @@ const Detailsdis = () => {
 
         <img src={img} alt="" />
         <h3 className="py-5 text-[35px] font-bold">K2K Agency Values</h3>
-        <p>At K2K our culture comes to life through three core values:</p>
+        <p>At K2K our culture comes to life through following values:</p>
         <ul className="list-disc list-inside py-2">
           <li>We care about each other and the world around us</li>
           <li>We care about each other and the world around us</li>
