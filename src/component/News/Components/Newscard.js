@@ -57,7 +57,7 @@ const Newscard = () => {
               Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
             </p>
             <a
-              href="/"
+              href="/newsdetails"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-blue-700 bg-white rounded-lg hover:text-black focus:ring-4 focus:outline-none dark:bg-white"
             >
               Read more
@@ -94,7 +94,7 @@ const Newscard = () => {
               Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
             </p>
             <a
-              href="/"
+              href="/newsdetails"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-blue-700 bg-white rounded-lg hover:text-black focus:ring-4 focus:outline-none dark:bg-white"
             >
               Read more
@@ -131,7 +131,7 @@ const Newscard = () => {
               Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
             </p>
             <a
-              href="/"
+              href="/newsdetails"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-blue-700 bg-white rounded-lg hover:text-black focus:ring-4 focus:outline-none dark:bg-white"
             >
               Read more
@@ -205,7 +205,7 @@ const Newscard = () => {
               Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
             </p>
             <a
-              href="/"
+              href="/newsdetails"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-blue-700 bg-white rounded-lg hover:text-black focus:ring-4 focus:outline-none dark:bg-white"
             >
               Read more
