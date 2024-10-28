@@ -21,13 +21,13 @@ const Pages = () => {const navigate = useNavigate(); // Use useHistory for v5
         navigate("/cloud-computing");
         break;
       case "UI/UX":
-        navigate("/ui-ux");
+        navigate("/ui-ux-graphics");
         break;
       case "AI Engineering":
         navigate("/ai-engineering");
         break;
       case "Graphic Designing":
-        navigate("/graphic-designing");
+        navigate("/3d-animation");
         break;
       case "App Development":
         navigate("/app-development");

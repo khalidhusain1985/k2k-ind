@@ -21,13 +21,13 @@ const Applicationdev = () => {const navigate = useNavigate();
         navigate("/cloud-computing");
         break;
       case "UI/UX":
-        navigate("/ui-ux");
+        navigate("/ui-ux-graphics");
         break;
       case "Web Development":
         navigate("/web-development");
         break;
       case "Graphic Designing":
-        navigate("/graphic-designing");
+        navigate("/3d-animation");
         break;
       case "AI Engineering":
         navigate("/ai-engineering");

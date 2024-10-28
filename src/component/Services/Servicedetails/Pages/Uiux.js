@@ -27,7 +27,7 @@ const Uiux = () => {const navigate = useNavigate();
         navigate("/web-development");
         break;
       case "Graphic Designing":
-        navigate("/graphic-designing");
+        navigate("/3d-animation");
         break;
       case "App Development":
         navigate("/app-development");

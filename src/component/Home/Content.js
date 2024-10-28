@@ -227,7 +227,7 @@ function Content() {
                 <p className="mb-3 font-normal text-black">
                 Our designers’ creativity craves the user’s interest by creating interactive and visually engaging UI/UX designs. This leads...
                 </p>
-                <a href="/ui-ux-graphics">
+                <a href="/ui-ux-graphics-graphics">
                 <button className="text-black py-1 text-[16px] sm:text-[18px] font-bold w-40 sm:w-48 h-9 rounded-xl flex gap-2">
                   <h3>More About Us</h3>
                   <img src={arrow} className="h-5 sm:h-6 pt-1" alt="arrow" />

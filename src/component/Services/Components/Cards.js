@@ -14,7 +14,7 @@ const Cards = () => {
     { id: 5, title: "AI Engineering", content: "At K2K, we provide high-end AI engineering services, such as machine learning developm...", path: "/ai-engineering" },
     { id: 6, title: "3D Animation", content: "At K2K, we offer excellent animation services, which include 2D/3D animations, motion graphi...", path: "/3d-animation" },
     { id: 7, title: "Cloud Computing", content: "Our comprehensive suite of cloud services is designed to propel businesses into the future...", path: "/cloud-computing" },
-    { id: 8, title: "UI/UX & Graphics", content: "Our designers’ creativity craves the user’s interest by creating interactive and visually engaging...", path: "/ui-ux-graphics" },
+    { id: 8, title: "UI/UX & Graphics", content: "Our designers’ creativity craves the user’s interest by creating interactive and visually engaging...", path: "/ui-ux-graphics-graphics" },
   ];
 
   const [currentPage, setCurrentPage] = useState(1);

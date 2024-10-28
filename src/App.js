@@ -49,7 +49,7 @@ const App = () => {
                 <Route path="/cloud-computing" element={<Cloud/>} />
                 <Route path="/ai-engineering" element={<Aieng/>} />
                 <Route path="/3d-animation" element={<Animat/>} />
-                <Route path="/ui-ux-graphics" element={<Uiu/>} />
+                <Route path="/ui-ux-graphics-graphics" element={<Uiu/>} />
                 <Route path="/contact" element={<Contactus />} />
                 <Route path="/news" element={<News />} />
                 <Route path="/newsdetails" element={<NewsDetails />} />
