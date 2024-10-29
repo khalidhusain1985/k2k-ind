@@ -22,16 +22,16 @@ const Aiengineering = () => {
         navigate("/cloud-computing");
         break;
       case "UI/UX":
-        navigate("/ui-ux-graphics");
+        navigate("/ui-ux-graphics-graphics");
         break;
       case "Web Development":
-        navigate("/web-development");
+        navigate("/website-development");
         break;
-      case "Graphic Designing":
-        navigate("/3d-animation");
+      case "Software Development":
+        navigate("/software-development");
         break;
       case "App Development":
-        navigate("/app-development");
+        navigate("/application-development");
         break;
       case "3D Animation":
           navigate("/3d-animation");
@@ -49,7 +49,7 @@ const Aiengineering = () => {
         "Cloud Computing",
         "UI/UX",
         "Web Development",
-        "Graphic Designing",
+        "Software Development",
         "App Development",
         "3D Animation",
       ].map((item, index) => (
