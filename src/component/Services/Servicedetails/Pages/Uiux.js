@@ -24,13 +24,13 @@ const Uiux = () => {const navigate = useNavigate();
         navigate("/ai-engineering");
         break;
       case "Web Development":
-        navigate("/web-development");
+        navigate("/website-development");
         break;
       case "Graphic Designing":
         navigate("/3d-animation");
         break;
       case "App Development":
-        navigate("/app-development");
+        navigate("/application-development");
         break;
       case "3D Animation":
           navigate("/3d-animation");
