@@ -21,16 +21,16 @@ const CyberSecurity = () => {const navigate = useNavigate();
         navigate("/cloud-computing");
         break;
       case "UI/UX":
-        navigate("/ui-ux-graphics");
+        navigate("/ui-ux-graphics-graphics");
         break;
       case "Web Development":
-        navigate("/web-development");
+        navigate("/website-development");
         break;
       case "Graphic Designing":
         navigate("/3d-animation");
         break;
       case "App Development":
-        navigate("/app-development");
+        navigate("/application-development");
         break;
       case "3D Animation":
           navigate("/3d-animation");
